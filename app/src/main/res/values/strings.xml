@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chat Bubbles</string>
+    <string name="type_message">Type a message...</string>
+    <string name="send">Send</string>
+</resources>
